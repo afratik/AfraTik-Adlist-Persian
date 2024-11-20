@@ -1,0 +1,8 @@
+0.0.0.0 panel.kaprila.com
+0.0.0.0 kaprila.com
+0.0.0.0 img.soft98.ir
+0.0.0.0 tasvir.yektanet.com
+0.0.0.0 yektanet.com
+0.0.0.0 ck.yektanet.com
+0.0.0.0 kifpool.me
+0.0.0.0 click.digiato.com
